@@ -1,6 +1,6 @@
 # ShokanGame3
 #### First UE4 Project
-自己创建的内容均在./Content/CreateMyself文件夹中
+自己创建的内容均在./Content/CreateByMyself文件夹中
 
 #### 第一次作业
 #### 演示视频和APK:
